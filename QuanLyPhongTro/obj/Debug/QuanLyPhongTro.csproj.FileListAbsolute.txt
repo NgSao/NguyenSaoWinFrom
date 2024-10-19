@@ -1,0 +1,14 @@
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.AssemblyReference.cache
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Form1.resources
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.cache
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.CoreCompileInputs.cache
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.MainForm.resources
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.LoaiPhong.resources
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Phong.resources
+E:\C#\NguyenSao_212210145\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.XuLyPhong.resources
